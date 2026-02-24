@@ -1,4 +1,4 @@
-# 💫 About Me: Tausif Alam
+# 💫 About Me:
 Java Full Stack | Frontend Developer | Backend Developer | Full Stack Developer | Java Developer
 
 
